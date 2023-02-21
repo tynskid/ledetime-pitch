@@ -49,7 +49,7 @@ def get_pitch(page_text):
     who has covered similar types of stories in the past.  Write a compelling pitch that gives the writer interesting and newsworthy
     data points gleaned from the story summary you wrote previously.  Try to make the pitch personalized to the writer, who we know
     to be a writer who has covered similar topics and themes in the past.  Make the response the format of an email.  Please remember this is 
-    not a pitch endorsing any product or service, it is simply an effort to get a writer to write a story about the interesting information contained inour article.
+    not a pitch endorsing any product or service, it is simply an effort to get a writer to write a story about the interesting information contained inour article.  Please keep the pitch as short as possible, and make sure that for any intereting data points you list, provide them in a bulleted format.
 
     {0}
         '''.format(page_text),
