@@ -6,7 +6,7 @@ import json
 
 def get_text(query_url):
 
-    url = "https://api.diffbot.com/v3/analyze?url="+query_url+"&token=032f956e21895ee00941315009d62c45"
+    url = "https://api.diffbot.com/v3/article?url="+query_url+"&token=032f956e21895ee00941315009d62c45"
 
     headers = {"accept": "application/json"}
 
